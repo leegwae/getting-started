@@ -6,7 +6,7 @@
 
 - [네트워크 기본](#네트워크-기본)
 - [네트워크 계층 모델](#네트워크-계층-모델)
-- [네트워크 계층 - IP와 IP 주소](#네트워크-계층)
+- [네트워크 계층](#네트워크-계층)
 - [전송 계층 - TCP, UDP](#전송-계층)
 - [HTTP](#HTTP)
 - [HTTPS](#HTTPS)
@@ -44,7 +44,7 @@ LAN(Local Area Network)은 동일한 건물(집, 회사, 학교 등)과 같이 �
 
 > LAN 카드는 LAN 어댑터(LAN Adapter), 네트워크 어댑터(Network Adapter), 네트워크 인터페이스 카드(Network Interface Card; NIC) 등으로도 불리운다.
 
-## 전송 계층
+## 네트워크 계층
 
 ### ARP/RARP에 대해 설명해주세요?
 
